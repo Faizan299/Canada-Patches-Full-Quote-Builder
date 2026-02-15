@@ -3,7 +3,7 @@
 Plugin Name: Canada Patches Full Quote Builder
 Description: Summary Bar Fixed with JS Scroll + Real-time Name/Email
 Version: 3.9
-Author: Faizan Yaseen Doger
+Author: Faizan Yaseen Dogar
 */
 
 add_shortcode('patch_quote_builder', 'pqb_render_full_final');
